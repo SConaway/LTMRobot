@@ -4,7 +4,7 @@ An Arduino-based Line Tracking Robot
 Versions
 ===
 
-Bluetooth Robot - https://github.com/SConaway/RobotContro/
+Bluetooth Robot - https://github.com/SConaway/BluetoothRobot/
 
 Obstacle Avoiding Robot - https://github.com/SConaway/ObstacleAvoidingRobot/
 
